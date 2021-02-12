@@ -7,13 +7,13 @@ Just Invite it with this invite code! [here](https://discord.com/oauth2/authoriz
 
 <h2>Commands</h2>
 Prefix - "rps "
-Rock, rock, R, r - Choose rock as your move
+`Rock, rock, R, r` - Choose rock as your move
 
-Paper, paper, P, p - Choose paper as your move
+`Paper, paper, P, p` - Choose paper as your move
 
-Scissors, scissors, S, s - Choose scissors as your move
+`Scissors, scissors, S, s` - Choose scissors as your move
 
-help - Desplays all avalible commands
+`help` - Desplays all avalible commands
 
 <h2 text-align:center>
 How to host this Bot
