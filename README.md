@@ -6,7 +6,8 @@ A Rock, Paper, Scissors Discord bot built on Python
 Just Invite it with this invite code! [here](https://discord.com/oauth2/authorize?client_id=809509629788160010&scope=bot&permissions=23552)
 
 <h2>Commands</h2>
-Prefix - "rps "
+**Prefix** - "rps "
+
 `Rock, rock, R, r` - Choose rock as your move
 
 `Paper, paper, P, p` - Choose paper as your move
