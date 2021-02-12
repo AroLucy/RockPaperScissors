@@ -62,7 +62,7 @@ async def scissors(ctx,):
     
 @bot.command(aliases=['h','H','Help'])
 async def help(ctx):
-    embed=discord.Embed(title="How To Use RPS", description="This is an embed that will show how to build an embed and the different components", color =discord.Colour.random())
+    embed=discord.Embed(title="How To Use RPS", description="RPS is a Discord bot written in python to allow you to play Rock Paper Scissors", color =discord.Colour.random())
     embed.add_field(name="Rock", value="`Rock, rock, R, r` - Choose rock as your move", inline=True)
     embed.add_field(name="Paper", value="`Paper, paper, P, p` - Choose paper as your move", inline=True)
     embed.add_field(name="Scissors", value="`Scissors, scissors, S, s` - Choose scissors as your move", inline=True)
