@@ -1,4 +1,4 @@
-# Welcome to the PP Rate GitHub repository.
+# Welcome to the Rock, Paper, Scissors GitHub repository.
 
 A Rock, Paper, Scissors Discord bot built on Python
 
