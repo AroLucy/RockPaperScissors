@@ -2,6 +2,19 @@
 
 A Rock, Paper, Scissors Discord bot built on Python
 
+<h2>Don't want to host?</h2>
+Just Invite it with this invite code! [here](https://discord.com/oauth2/authorize?client_id=809509629788160010&scope=bot&permissions=23552)
+
+<h2>Commands</h2>
+Prefix - "rps "
+Rock, rock, R, r - Choose rock as your move
+
+Paper, paper, P, p - Choose paper as your move
+
+Scissors, scissors, S, s - Choose scissors as your move
+
+help - Desplays all avalible commands
+
 <h2 text-align:center>
 How to host this Bot
 </h2>
