@@ -3,7 +3,7 @@
 A Rock, Paper, Scissors Discord bot built on Python
 
 <h2>Don't want to host?</h2>
-Just Invite it with this invite code! [here](https://discord.com/oauth2/authorize?client_id=809509629788160010&scope=bot&permissions=23552)
+Just Invite it with this invite code! [Here](https://discord.com/oauth2/authorize?client_id=809509629788160010&scope=bot&permissions=23552 "The Bots Invite link")
 
 <h2>Commands</h2>
 **Prefix** - "rps "
