@@ -1,0 +1,16 @@
+{
+    "prefix": ["rps ","rPs ","rpS ","rPS ","Rps ","RPs ","RpS ","RPS "],
+
+"rock": ["Rock [Tie :flushed:]",
+        "Paper [I win :grinning:]",
+        "Scissors [You win :weary:]"],
+
+"paper": ["Paper [Tie :flushed:]",
+        "Scissors [I win :grinning:]",
+        "Rock [You win :weary:]"],
+        
+"scissors": ["Scissors [Tie :flushed:]",
+        "Rock [I win :grinning:]",
+        "Paper [You win :weary:]"]
+
+}
