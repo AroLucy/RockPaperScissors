@@ -3,8 +3,9 @@
 A Rock, Paper, Scissors Discord bot built on Python
 
 <h2>Don't want to host?</h2>
-Just Invite it with this invite code! [Here](http://discord.com/oauth2/authorize?client_id=809509629788160010&scope=bot&permissions=23552)
-Uptime Checker is [Here](https://stats.uptimerobot.com/5KnlXh0yQm/787222261)
+Just Invite it with this invite code! <a href="http://discord.com/oauth2/authorize?client%95id=809509629788160010&scope=bot&permissions=23552">here</a>
+Uptime Checker is <a href="https://stats.uptimerobot.com/5KnlXh0yQm/787222261">here</a>
+
 
 <h2>Commands</h2>
 **Prefix** - "rps "
