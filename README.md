@@ -1,8 +1,8 @@
 # Welcome to the PP Rate GitHub repository.
 
-This is a discord bot writen in discord.py with the purpose of "rating" your PPs just for fun!
+A Rock, Paper, Scissors Discord bot built on Python
 
-<h2 text-align:right>
+<h2 text-align:center>
 How to host this Bot
 </h2>
 
