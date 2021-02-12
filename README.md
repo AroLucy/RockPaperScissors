@@ -8,6 +8,7 @@ Uptime Checker is <a href="https://stats.uptimerobot.com/5KnlXh0yQm/787222261">h
 
 
 <h2>Commands</h2>
+
 **Prefix** - "rps "
 
 `Rock, rock, R, r` - Choose rock as your move
