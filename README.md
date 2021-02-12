@@ -2,7 +2,7 @@
 
 This is a discord bot writen in discord.py with the purpose of "rating" your PPs just for fun!
 
-<h2 text-align:center>
+<h2 text-align:right>
 How to host this Bot
 </h2>
 
