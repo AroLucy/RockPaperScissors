@@ -23,6 +23,38 @@ Uptime Checker is <a href="https://rockpaperscissors.lucyclelland.repl.co/">here
 How to host this Bot
 </h2>
 
+[Repl.it](#r)
+
+[Keeping the bot alive on repl.it](#r2)
+
+[On Your PC](#m)
+
+## <a name="r"></a>Repl.it
+
+Go to [repl.it](https://repl.it) (Create an account) and create a new **BASH** Project
+
+Copy all the files from the ["Repl.it Code" Branch](https://github.com/LucyUwI/RockPaperScissors/edit/repl.it-code), delete the main.sh that is already on your repl, and drag and drop the files onto the file list on repl.it.
+
+Edit the `.env` file to include your bot Token
+
+Go to "Shell" on repl.it and type `pip3 install discord.py` & `pip3 install flask` (IGNORE ERRORS it will ask you to install `typeing` and update `pip` don't do this will make it so your bot will not launch)
+
+A new tab will open, (Copy the link if you're going to procced to the next step)
+
+Click the green "Run" Button
+
+#### <a name="r2"></a>Keeping the bot alive on repl.it
+
+Go to [UpTime Robot](https://uptimerobot.com/) and create an account
+
+Once you're at your dashboard click "Create new monitor" and set it to "HTTP(s)" 
+
+Give it a Freindly name (this can be anything)
+
+Paste the link you copied before and click "Save" or "Done"
+
+## <a name="m"></a>On your PC
+
 Download or clone this repository 
 
  Replace "[TOKEN]" with you bot token in the `example.token.json` file
