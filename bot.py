@@ -3,6 +3,8 @@ from discord.ext import commands
 from pathlib import Path
 from random import choice
 import json
+import alive
+import os
 
 def load_config():
     try:
@@ -14,18 +16,8 @@ def load_config():
         print("Exiting...")
         exit()
         
-def load_token():
-    try:
-        with open(str(Path(__file__).parent.absolute()) + '/token.json', 'r') as json_file:
-            config = json.load(json_file)
-        return config
-    except FileNotFoundError:
-        print("Confing file not found!")
-        print("Exiting...")
-        exit()
-    
 config = load_config()
-tok = load_token()
+token = os.getenv("token")
 
 bot = commands.Bot(command_prefix=config['prefix'], help_command=None)
 
@@ -75,5 +67,7 @@ async def reload(ctx):
     config = load_config()
     await ctx.send('Config reloaded.')
 
-bot.run(tok['token'])
+
+alive.keep_alive()
+bot.run(token)
 
